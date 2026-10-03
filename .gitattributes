@@ -1,0 +1,6 @@
+# These frozen files are checked by byte-for-byte MD5 on every platform.
+arena/trace.py -text
+arena/corpus.py -text
+arena/tools.py -text
+arena/model.py -text
+arena/scorer.py -text
